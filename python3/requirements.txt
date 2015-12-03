@@ -1,4 +1,0 @@
-dotenv
-twilio
-yagmail
-git+https://github.com/charlierguo/gmail
